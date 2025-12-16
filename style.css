@@ -1,1 +1,10 @@
-
+*{
+    font-family: Georgia;
+}
+header{
+    text-align: center;
+}
+.main{
+    font-weight: bold;
+    text-align: center;
+}
